@@ -22,8 +22,9 @@ body {
         - set the font size to 46px 
         - use a lighter weight font
 */
-title {
-  font-family: Bungee inline;
+h1 {
+  font-family: Bungee Inline;
+  font-style: normal;
   font-size: 46px;
   font-weight: lighter;
 }
